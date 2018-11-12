@@ -59,7 +59,7 @@ def timecheck():
 
         print (hour + ':' + minute)
 
-        if int(hour) == 17 and int(minute) == 15:
+        if int(hour) == 17 and int(minute) == 20:
             print ('ALARM!')
             napalarm()
         if int(hour) == 7 and int(minute) == 20:
