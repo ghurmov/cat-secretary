@@ -5,7 +5,7 @@ import datetime as dt
 import schedule
 import os
 
-token = '648003914:AAGo7q_ucIqh0DYAV-0cD90fIm3IFuS5qGw'
+token = ''
 bot = telebot.TeleBot(token=token)
 
 
